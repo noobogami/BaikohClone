@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class Letter : MonoBehaviour
 {
-	public int id;
+    public int id;
 }
